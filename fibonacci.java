@@ -1,4 +1,14 @@
+/**
+ * Method that returns a position in the fibonacci sequence based on
+ * 'n' value given at runtime
+ * @author Jordan Neumann
+ */
 public class fibonacci {
+    /**
+     *
+     * @param n
+     * @return n
+     */
     static long recursion (long n) {
         if (n <= 1) {
             return n;
