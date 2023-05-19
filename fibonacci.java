@@ -7,7 +7,6 @@ public class fibonacci {
         }
     }
     public static void main (String[] args) {
-//        iterate(15);
         System.out.println("The n'th term of the Fibonacci Sequence is " + recursion(10) + "!");
     }
 
